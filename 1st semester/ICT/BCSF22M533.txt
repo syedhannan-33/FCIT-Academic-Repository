@@ -1,0 +1,82 @@
+//Task 1
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     cout << "HELLOW WORLD!";
+//     return 0;
+// }
+
+//Task 2
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     int x,y,sum ;
+//     cout <<"Enter two numbers ";
+//     cin >> x ;
+//     cin >> y ;
+//     sum = x+y ;
+//     cout << "Sum of two numbers is: " << sum ;
+//     return 0;
+// }
+
+// Task 3
+
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     float x=2 , y=4 , z=8, result ;
+//     result=(x/y)*z ;
+//     cout << "The Result of expression (2/4)*8 = " << result;
+// }
+
+//Task 4
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     cout << "*\n";
+//     cout << "**\n";
+//     cout << "***\n";
+//     cout << "******\n";
+//     cout << "***\n";
+//     cout << "**\n";
+//     cout << "*\n";
+// }
+
+
+// Task 5
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     cout << "  *  \n";
+//     cout << " *** \n";
+//     cout << "*****\n";
+//     cout << " *** \n";
+//     cout << "  *  \n";
+//     return 0 ;
+// }
+
+//Task 6
+
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int x ,remainder ;
+//     cout << "Enter a positive integer ";
+//     cin >> x;
+//     remainder = x%2;
+//     if(remainder==0)
+//     {
+//         cout << x << " is an even number";
+//     }
+//     else
+//     {
+//         cout << x << "is an odd number";
+//     }
+//     return 0;
+// }
